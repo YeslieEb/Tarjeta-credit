@@ -1,7 +1,7 @@
 # PROGRAMA TARJETA DE CREDITO 
 ## PSEUDOCÓDIGO
 Ingresar el número de tarjeta
-Para (var i=0; i<=cardnumber.length; i++){
+Para (var i=0; i<=cardnumber.length; i++)
 	 Invertir el arreglo y convertirlo a número  
     Cuando la posición empieza en 1 multiplicar *2  
       	Sumar los dígitos
